@@ -1,0 +1,72 @@
+Print Record 1: 
+ 0 0 0 0 
+
+Print Record 2: 
+video game 2 123 144 4.56 1 
+
+getName for gameRecord1 (default constructor): 
+
+
+
+getName for gameRecord2 (parameter constructor): 
+video game 2
+
+
+Print record 1: 
+video game 1 0 0 0 0 
+Print record 2: 
+Mario Kart 123 144 4.56 1 
+get stock number of default constructor: 
+0
+
+get stock number of parameter constructor: 
+123
+
+get new stock number of default constructor: 
+4133
+
+get new stock number of parameter constructor: 
+1234
+
+ get classification of default constructor: 
+0
+
+
+
+ get classification: 
+144
+
+
+get new classification for record1: 
+127
+
+
+get new classification for record2: 
+128
+
+
+Getting original Price of default constructor: 
+0 Getting original Price of parameter constructor: 
+4.56 
+Print Record 1 to show new Price set: 
+video game 1 4133 127 6.74 0 
+
+
+Print Record 2 to show new Price set: 
+Mario Kart 1234 128 6.74 1 
+
+get number in stock of game record 1: 
+0
+get number in stock of game record 2: 
+1
+
+get number of items in stock for game record 1: 
+1442
+
+get number of items in stock for game record 2: 
+2142
+
+Print Record 1: 
+video game 1 4133 127 6.74 1442 
+Print Record 2: 
+Mario Kart 1234 128 6.74 2142 

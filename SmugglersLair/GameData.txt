@@ -1,0 +1,37 @@
+# Any line beginning with a pound sign shall be ignored as a comment line
+# First non-comment line will give the number of games in the file
+# Remaining lines will give the stock number, name, classification, price
+# and number in stock. Each shall be on a separate line.
+6
+2345
+Super Mario Bros.
+3
+29.95
+15
+1234
+Breakout
+1
+29.95
+10
+4567
+Dig Dug
+1
+19.95
+20
+3456
+Shark! Shark!
+2
+24.95
+15
+9876
+Astrosmash
+2
+15.95
+12
+5678
+Contra
+3
+24.95
+12
+
+   
